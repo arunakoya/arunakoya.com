@@ -1,23 +1,16 @@
-ARUNA SANDHYA KOYA — EDITORIAL STATIC BLOG
-===========================================
+ARUNA SANDHYA KOYA — STATIC CARD BLOG
 
-Open index.html in a browser.
+This edition uses a clean professional orange, white and black design.
 
-This edition preserves the complete static WordPress-export content, pages,
-categories, tags and media references while applying a clean, modern editorial
-style inspired by contemporary British fashion publishing.
+Included:
+- 37 published posts
+- 8 published pages
+- Category archive pages
+- Image-led article cards
+- Search and category filtering
+- Full exported WordPress article content
+- Responsive desktop, tablet and mobile layouts
+- Shared stylesheet in assets/styles.css
 
-Design features
----------------
-- High-contrast monochrome editorial palette
-- Large fashion-magazine masthead and headlines
-- Magazine-grid homepage with a lead story
-- Refined article typography and narrow reading measure
-- Pull-quote, gallery, caption and archive styling
-- Responsive mobile and tablet layouts
-- No database, CMS, PHP or build process
-
-Deployment
-----------
-Upload the folder contents to GitHub Pages, Netlify, Cloudflare Pages or any
-ordinary static web host.
+Open index.html locally, or upload the arunakoya-card-blog folder contents
+to GitHub Pages, Netlify, Cloudflare Pages or any standard static host.
